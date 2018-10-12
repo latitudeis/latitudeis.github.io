@@ -1,5 +1,5 @@
 theme: minima
 title: LatitudeIS Project Site
 header_pages:
-  - What?.md
-  - Thots.md
+  - about.md
+  - thots.md
